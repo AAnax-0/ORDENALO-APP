@@ -1,0 +1,56 @@
+ORDÉNALO · organiza tu escritorio y tus carpetas de clase
+=========================================================
+
+CÓMO ABRIRLO
+  Windows:    doble clic en Ordenalo.bat
+              (o en Ordenalo.jar, si tu ordenador ya abre los .jar)
+  Linux/Mac:  ./ordenalo.sh   (o bien: java -jar Ordenalo.jar)
+
+  Descomprime antes la carpeta entera. Si Windows pregunta si quieres
+  ejecutarlo, pulsa «Más información» y «Ejecutar de todas formas».
+
+  Necesita Java 17 o superior. Si tienes IntelliJ IDEA, ya lo tienes:
+  Ordenalo.bat busca solo el Java de IntelliJ, Amazon Corretto, Adoptium,
+  Oracle... Si no hay ninguno: https://adoptium.net (gratis).
+
+  Consejo: clic derecho en Ordenalo.bat > Enviar a > Escritorio (crear
+  acceso directo). Los accesos directos se quedan en el escritorio al ordenar.
+
+CÓMO SE USA
+  1. Elige qué ordenar: Escritorio, Descargas, Documentos u otra carpeta.
+  2. Revisa la propuesta. Cada cosa va a:
+       Clase     (Documentos\DAM)       una carpeta por asignatura y, dentro,
+                                        por tarea: «Tarea3_SI.docx» va a
+                                        Sistemas Informáticos\Tarea 3
+       Lo demás  (Documentos\Ordenado)  Imágenes, Capturas de pantalla, PDF,
+                                        Instaladores, Duplicados...
+     Si ya tienes carpetas (por ejemplo «PROG» o «SI»), usa las tuyas.
+     Si algo no te cuadra, cambia «Va a». Lo dudoso no se mueve si no lo marcas.
+     Clic derecho en la tabla: mandar varias cosas a la vez a otro sitio.
+  3. Pulsa «Mover». Si no te gusta, «Deshacer la última» lo deja todo como
+     estaba. En la pestaña «Historial» puedes deshacer cualquier ordenación.
+
+LO QUE NUNCA HACE
+  - No borra nada. Las copias repetidas van a «Duplicados» para que las
+    borres tú cuando quieras.
+  - No sobrescribe: si un nombre choca, se guarda como «nombre (2)».
+  - No toca accesos directos, archivos ocultos, descargas a medias ni
+    carpetas de programas (IdeaProjects, Zoom, Visual Studio...).
+  - Las carpetas (un proyecto de IntelliJ, una actividad) se mueven enteras.
+
+EN CLASE Y EN CASA
+  Las reglas y el historial se guardan en la carpeta «datos», que se crea
+  junto a Ordenalo.jar. Si llevas la carpeta Ordenalo en un USB o en
+  Google Drive, tus reglas van contigo de un ordenador a otro.
+  El historial apunta en qué ordenador se hizo cada ordenación.
+
+REGLAS
+  En la pestaña «Reglas» puedes añadir palabras clave (el nombre de un profe,
+  de un proyecto...) o asignaturas nuevas, y probar nombres para ver a dónde
+  irían. También puedes editar a mano el archivo datos\reglas.ini.
+
+LÍNEA DE COMANDOS (opcional)
+  java -jar Ordenalo.jar --simular "C:\Users\tu\Desktop"   enseña el plan, sin mover nada
+  java -jar Ordenalo.jar --aplicar "C:\Users\tu\Desktop"   mueve lo que no es dudoso
+  java -jar Ordenalo.jar --deshacer                         deshace la última ordenación
+  java -jar Ordenalo.jar --ayuda                            todas las opciones

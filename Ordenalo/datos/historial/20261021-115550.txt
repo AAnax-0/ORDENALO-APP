@@ -1,0 +1,40 @@
+# Ordénalo: registro de una ordenación. Si lo borras, ya no se podrá deshacer.
+# fecha=2026-10-21T11:55:50
+# equipo=T5DAM1-PC05
+# origen=C:\Users\Usuario1\Downloads
+CREADA	C:\Users\Usuario1\Documents\DAM
+CREADA	C:\Users\Usuario1\Documents\DAM\Lenguajes de Marcas
+MOVIDO	C:\Users\Usuario1\Downloads\Aplicaciones a trabajar_files	C:\Users\Usuario1\Documents\DAM\Lenguajes de Marcas\Aplicaciones a trabajar_files
+MOVIDO	C:\Users\Usuario1\Downloads\138617.htm	C:\Users\Usuario1\Documents\DAM\Lenguajes de Marcas\138617.htm
+CREADA	C:\Users\Usuario1\Documents\DAM\Sistemas Informáticos
+CREADA	C:\Users\Usuario1\Documents\DAM\Sistemas Informáticos\Actividad 2
+MOVIDO	C:\Users\Usuario1\Downloads\Actividad 2 DAM SI (2).pdf	C:\Users\Usuario1\Documents\DAM\Sistemas Informáticos\Actividad 2\Actividad 2 DAM SI (2).pdf
+CREADA	C:\Users\Usuario1\Documents\Ordenado
+CREADA	C:\Users\Usuario1\Documents\Ordenado\Imágenes
+MOVIDO	C:\Users\Usuario1\Downloads\Angel Devil plush.jpg	C:\Users\Usuario1\Documents\Ordenado\Imágenes\Angel Devil plush.jpg
+MOVIDO	C:\Users\Usuario1\Downloads\Aplicaciones a trabajar.html	C:\Users\Usuario1\Documents\DAM\Lenguajes de Marcas\Aplicaciones a trabajar.html
+CREADA	C:\Users\Usuario1\Documents\Ordenado\Instaladores
+MOVIDO	C:\Users\Usuario1\Downloads\BraveBrowserSetup-BRV010.exe	C:\Users\Usuario1\Documents\Ordenado\Instaladores\BraveBrowserSetup-BRV010.exe
+MOVIDO	C:\Users\Usuario1\Downloads\chromeremotedesktophost.msi	C:\Users\Usuario1\Documents\Ordenado\Instaladores\chromeremotedesktophost.msi
+MOVIDO	C:\Users\Usuario1\Downloads\ChromeSetup.exe	C:\Users\Usuario1\Documents\Ordenado\Instaladores\ChromeSetup.exe
+MOVIDO	C:\Users\Usuario1\Downloads\Claude Setup.exe	C:\Users\Usuario1\Documents\Ordenado\Instaladores\Claude Setup.exe
+CREADA	C:\Users\Usuario1\Documents\Ordenado\Otros
+MOVIDO	C:\Users\Usuario1\Downloads\debug.log	C:\Users\Usuario1\Documents\Ordenado\Otros\debug.log
+CREADA	C:\Users\Usuario1\Documents\DAM\Bases de Datos
+MOVIDO	C:\Users\Usuario1\Downloads\file_type_sqlite_icon_130153.png	C:\Users\Usuario1\Documents\DAM\Bases de Datos\file_type_sqlite_icon_130153.png
+MOVIDO	C:\Users\Usuario1\Downloads\Gemini_Generated_Image_ip3jfzip3jfzip3j.jpg	C:\Users\Usuario1\Documents\Ordenado\Imágenes\Gemini_Generated_Image_ip3jfzip3jfzip3j.jpg
+MOVIDO	C:\Users\Usuario1\Downloads\GitHubDesktopSetup-x64.exe	C:\Users\Usuario1\Documents\Ordenado\Instaladores\GitHubDesktopSetup-x64.exe
+CREADA	C:\Users\Usuario1\Documents\DAM\Sistemas Informáticos\Actividad 3
+MOVIDO	C:\Users\Usuario1\Downloads\GonzalezMedinaAlvaroSIActividad-3.pdf	C:\Users\Usuario1\Documents\DAM\Sistemas Informáticos\Actividad 3\GonzalezMedinaAlvaroSIActividad-3.pdf
+MOVIDO	C:\Users\Usuario1\Downloads\GonzalezMedinaAlvaroSIActividad3.pdf	C:\Users\Usuario1\Documents\DAM\Sistemas Informáticos\Actividad 3\GonzalezMedinaAlvaroSIActividad3.pdf
+CREADA	C:\Users\Usuario1\Documents\DAM\Itinerario para la Empleabilidad
+MOVIDO	C:\Users\Usuario1\Downloads\Investigacion de riesgos laborales.pdf	C:\Users\Usuario1\Documents\DAM\Itinerario para la Empleabilidad\Investigacion de riesgos laborales.pdf
+MOVIDO	C:\Users\Usuario1\Downloads\manual-ccleaner.pdf	C:\Users\Usuario1\Documents\DAM\Sistemas Informáticos\manual-ccleaner.pdf
+MOVIDO	C:\Users\Usuario1\Downloads\Obsidian-1.14.4.exe	C:\Users\Usuario1\Documents\Ordenado\Instaladores\Obsidian-1.14.4.exe
+CREADA	C:\Users\Usuario1\Documents\Ordenado\Comprimidos
+MOVIDO	C:\Users\Usuario1\Downloads\Ordenalo-codigo.zip	C:\Users\Usuario1\Documents\Ordenado\Comprimidos\Ordenalo-codigo.zip
+MOVIDO	C:\Users\Usuario1\Downloads\Ordenalo.zip	C:\Users\Usuario1\Documents\Ordenado\Comprimidos\Ordenalo.zip
+MOVIDO	C:\Users\Usuario1\Downloads\SEB_3.10.2.920_SetupBundle.exe	C:\Users\Usuario1\Documents\Ordenado\Instaladores\SEB_3.10.2.920_SetupBundle.exe
+MOVIDO	C:\Users\Usuario1\Downloads\sqlite-dll-win-x64-3530400.zip	C:\Users\Usuario1\Documents\DAM\Bases de Datos\sqlite-dll-win-x64-3530400.zip
+MOVIDO	C:\Users\Usuario1\Downloads\sqlite-logo-png_seeklogo-273915.png	C:\Users\Usuario1\Documents\DAM\Bases de Datos\sqlite-logo-png_seeklogo-273915.png
+# fin=2026-10-21T11:55:50 elementos=23 errores=0

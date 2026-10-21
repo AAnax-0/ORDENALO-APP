@@ -1,0 +1,22 @@
+# Ordénalo: registro de una ordenación. Si lo borras, ya no se podrá deshacer.
+# fecha=2026-10-21T11:57:44
+# equipo=T5DAM1-PC05
+# origen=C:\Users\Usuario1\Desktop
+MOVIDO	C:\Users\Usuario1\Desktop\Boletin_03	C:\Users\Usuario1\Documents\DAM\Programacion\Boletin_03
+MOVIDO	C:\Users\Usuario1\Desktop\Ejercicios-Practicos-Programacion	C:\Users\Usuario1\Documents\DAM\Programacion\Ejercicios-Practicos-Programacion
+CREADA	C:\Users\Usuario1\Documents\Ordenado\Proyectos personales
+MOVIDO	C:\Users\Usuario1\Desktop\Mi-Armario-Beta	C:\Users\Usuario1\Documents\Ordenado\Proyectos personales\Mi-Armario-Beta
+MOVIDO	C:\Users\Usuario1\Desktop\Proyecto-Integrador-LM-2026	C:\Users\Usuario1\Documents\DAM\Lenguajes de Marcas\Proyecto-Integrador-LM-2026
+MOVIDO	C:\Users\Usuario1\Desktop\Vault	C:\Users\Usuario1\Documents\DAM\Lenguajes de Marcas\Vault
+MOVIDO	C:\Users\Usuario1\Desktop\AnyDesk.exe	C:\Users\Usuario1\Documents\Ordenado\Instaladores\AnyDesk.exe
+MOVIDO	C:\Users\Usuario1\Desktop\GoogleDriveSetup.exe	C:\Users\Usuario1\Documents\Ordenado\Instaladores\GoogleDriveSetup.exe
+MOVIDO	C:\Users\Usuario1\Desktop\import.java.util.java	C:\Users\Usuario1\Documents\DAM\Programacion\import.java.util.java
+MOVIDO	C:\Users\Usuario1\Desktop\MiArmario.zip	C:\Users\Usuario1\Documents\Ordenado\Proyectos personales\MiArmario.zip
+MOVIDO	C:\Users\Usuario1\Desktop\public class ifExample.java	C:\Users\Usuario1\Documents\DAM\Programacion\public class ifExample.java
+CREADA	C:\Users\Usuario1\Documents\Ordenado\Documentos y PDF
+MOVIDO	C:\Users\Usuario1\Desktop\README.md	C:\Users\Usuario1\Documents\Ordenado\Documentos y PDF\README.md
+CREADA	C:\Users\Usuario1\Documents\Ordenado\ISOs y máquinas virtuales
+MOVIDO	C:\Users\Usuario1\Desktop\ubuntu-22.04.5-desktop-amd64.iso	C:\Users\Usuario1\Documents\Ordenado\ISOs y máquinas virtuales\ubuntu-22.04.5-desktop-amd64.iso
+MOVIDO	C:\Users\Usuario1\Desktop\UDO3-Programacion.zip	C:\Users\Usuario1\Documents\DAM\Programacion\UDO3-Programacion.zip
+MOVIDO	C:\Users\Usuario1\Desktop\Windows 10.iso	C:\Users\Usuario1\Documents\Ordenado\ISOs y máquinas virtuales\Windows 10.iso
+# fin=2026-10-21T11:57:44 elementos=14 errores=1

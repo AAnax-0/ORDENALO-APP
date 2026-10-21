@@ -1,0 +1,6 @@
+# Ordénalo: registro de una ordenación. Si lo borras, ya no se podrá deshacer.
+# fecha=2026-10-21T11:58:17
+# equipo=T5DAM1-PC05
+# origen=C:\Users\Usuario1\Desktop
+MOVIDO	C:\Users\Usuario1\Desktop\Practica1_ElementosBasicos	C:\Users\Usuario1\Documents\DAM\Lenguajes de Marcas\Practica1_ElementosBasicos
+# fin=2026-10-21T11:58:17 elementos=1 errores=0

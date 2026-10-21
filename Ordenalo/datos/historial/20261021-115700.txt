@@ -1,0 +1,14 @@
+# Ordénalo: registro de una ordenación. Si lo borras, ya no se podrá deshacer.
+# fecha=2026-10-21T11:57
+# equipo=T5DAM1-PC05
+# origen=C:\Users\Usuario1\Documents
+MOVIDO	C:\Users\Usuario1\Documents\java tarea	C:\Users\Usuario1\Documents\DAM\Programacion\java tarea
+MOVIDO	C:\Users\Usuario1\Documents\Pruebas	C:\Users\Usuario1\Documents\DAM\Programacion\Pruebas
+MOVIDO	C:\Users\Usuario1\Documents\sqlite	C:\Users\Usuario1\Documents\DAM\Bases de Datos\sqlite
+MOVIDO	C:\Users\Usuario1\Documents\Mi música	C:\Users\Usuario1\Documents\Ordenado\Otros\Mi música
+MOVIDO	C:\Users\Usuario1\Documents\Mis imágenes	C:\Users\Usuario1\Documents\Ordenado\Otros\Mis imágenes
+MOVIDO	C:\Users\Usuario1\Documents\Mis vídeos	C:\Users\Usuario1\Documents\Ordenado\Otros\Mis vídeos
+# fin=2026-10-21T11:57 elementos=6 errores=0
+# reparado=C:\Users\Usuario1\Documents\Mi música
+# reparado=C:\Users\Usuario1\Documents\Mis imágenes
+# reparado=C:\Users\Usuario1\Documents\Mis vídeos
